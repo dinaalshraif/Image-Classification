@@ -1,7 +1,7 @@
 # Image-Classification
 
 
-Description
+## Description
 Identify different types of cell nuclei in a colon cancer sample
 Overall Goal
 Colon cancer is the 3rd most common cancer in the world.
